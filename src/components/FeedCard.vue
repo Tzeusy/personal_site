@@ -10,7 +10,7 @@
       href="#!"
     >
       <v-img
-        :src="require(`@/assets/articles/${value.picture}`)"
+        :src="require(`@/assets/images/${value.picture}`)"
         height="100%"
         gradient="rgba(0, 0, 0, .42), rgba(0, 0, 0, .42)"
       >

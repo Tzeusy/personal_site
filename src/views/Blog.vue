@@ -1,7 +1,7 @@
 <template>
   <div id="blog">
     <banner :key="$route.fullPath" />
-    <wot />
+    <wot :key="$route.fullPath" />
   </div>
 </template>
 

@@ -61,7 +61,11 @@
           class="display-5"
           style="text-align:center"
         >
-          I developed this site as part of my journey in learning Vue.js and messing around with differing hosting providers. The theme is adapted from Vuetify's fantastic <a href="https://github.com/vuetifyjs/theme-blog"> theme library </a>. <br> Logo inspired by <a href="https://www.pinterest.com/pin/533324780869621926/?lp=true"> this </a>, but is probably a placeholder until I decide paying for assets is (somehow) worth it.
+          I developed this site as part of my journey in learning Vue.js and messing around with differing hosting providers. The theme is adapted from Vuetify's fantastic <a href="https://github.com/vuetifyjs/theme-blog">
+            theme library
+          </a>. <br> Logo inspired by <a href="https://www.pinterest.com/pin/533324780869621926/?lp=true">
+            this
+          </a>, but is probably a placeholder until I decide paying for assets is (somehow) worth it.
         </p>
       </v-container>
     </v-container>
