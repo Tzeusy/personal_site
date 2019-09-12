@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Post-graduate resting",
+    "author": "Tze How",
+    "category": "Thoughts",
+    "picture": "moroccandays.jpg",
+    "date": "080919",
+    "href": "/posts/Thoughts/080919.html",
+    "link":"moroccandays.md"
+  },
+  {
+    "title": "Swedish Fishing",
+    "author": "Rachel L",
+    "category": "Reviews",
+    "picture": "autumnclouds.jpg"
+  },
+  {
+    "title": "Graduation",
+    "category": "Geek",
+    "picture": "snowcup.jpg",
+    "prominent": true
+  },
+  {
+    "title": "Paris in Spring",
+    "author": "John L",
+    "category": "Thoughts",
+    "picture": "christmas.jpg"
+  },
+  {
+    "title": "Youthful Independence",
+    "author": "Rachel L",
+    "category": "Geek",
+    "picture": "july4.jpg"
+  },
+  {
+    "title": "Water Ventures",
+    "author": "Rachel L",
+    "category": "Projects",
+    "picture": "jellyfish.jpg"
+  },
+  {
+    "title": "Mt. Zekial",
+    "author": "Rachel L",
+    "category": "Thoughts",
+    "picture": "mountaincabin.jpg"
+  },
+  {
+    "title": "Cozumel Caves",
+    "author": "Rachel L",
+    "category": "Thoughts",
+    "picture": "lightcave.jpg"
+  },
+  {
+    "title": "Amazing Ireland",
+    "author": "Rachel L",
+    "category": "Thoughts",
+    "picture": "greengrass.jpg"
+  },
+  {
+    "title": "Cabin Fever",
+    "author": "Rachel L",
+    "category": "Thoughts",
+    "picture": "snowcabin.jpg"
+  },
+  {
+    "title": "To the ancient ruins",
+    "author": "Rachel L",
+    "category": "Thoughts",
+    "picture": "ruins.jpg"
+  },
+  {
+    "title": "New fashion trends",
+    "author": "Rachel L",
+    "category": "Thoughts",
+    "picture": "umbrella.jpg"
+  },
+  {
+    "title": "Go on a vacation",
+    "author": "Rachel L",
+    "category": "Thoughts",
+    "picture": "adventurecave.jpg"
+  }
+]

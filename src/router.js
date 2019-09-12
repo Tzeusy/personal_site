@@ -24,6 +24,10 @@ export default new Router({
       path: '/category/:cat',
       name: 'blog',
       component: Blog
+    },
+    {
+      path: '/assets/images',
+      'name': 'images'
     }
   ]
 })

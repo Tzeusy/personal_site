@@ -1,0 +1,32 @@
+{
+    "Home":{
+        "title": "Home",
+        "blurb": "Home page",
+        "picture": "Thoughts.jpg"
+    },
+    "All":{
+        "title": "All",
+        "blurb": "A carousell!",
+        "picture": "Thoughts.jpg"
+    },
+    "Thoughts":{
+        "title": "Thoughts",
+        "blurb": "From full-on rants to just passing daily shower thoughts, here I ruminate",
+        "picture": "Thoughts.jpg"
+    },
+    "Reviews":{
+        "title": "Reviews",
+        "blurb": "Thoughts on the various forms of media I find myself drawn to, in this internet driven world",
+        "picture": "Thoughts.jpg"
+    },
+    "Geek":{
+        "title": "Geek",
+        "blurb": "Because let's be honest, who doesn't like geeking out?",
+        "picture": "Thoughts.jpg"
+    },
+    "Projects":{
+        "title": "Projects",
+        "blurb": "Software exploration, maker hobbies, and the like. Anything in which substantial time commitment is done towards a functional product at the end will appear here!",
+        "picture": "Thoughts.jpg"
+    }
+}

@@ -65,7 +65,7 @@
             theme library
           </a>. <br> Logo inspired by <a href="https://www.pinterest.com/pin/533324780869621926/?lp=true">
             this
-          </a>, but is probably a placeholder until I decide paying for assets is (somehow) worth it.
+          </a>, but is probably a placeholder until I decide paying for some designed assets is worth it.
         </p>
       </v-container>
     </v-container>
@@ -84,12 +84,12 @@
         {
           href: '/',
           icon: 'mdi-phone',
-          text: "Drop me an email! Phone number's confidential :)"
+          text: "Drop me an email! Phone number's confidential"
         },
         {
           href: 'https://www.google.com/search?q=google+map+singapore&oq=google+map+singa',
           icon: 'mdi-map-marker',
-          text: "Not too wise to put my address in public domain ;) Let's just say I can see the airport from my house!"
+          text: 'Not too wise to put my address in public domain!'
         }
       ],
       details: [
@@ -106,12 +106,12 @@
         {
           href: 'https://www.instagram.com/tzeusy/',
           icon: 'mdi-instagram',
-          text: "I don't actively accept followers though!"
+          text: "I don't actively accept followers!"
         },
         {
           href: 'https://www.facebook.com/LeeTzeHow',
           icon: 'mdi-facebook',
-          text: "I don't actively accept friends though!"
+          text: "I don't actively accept friends!"
         }
       ]
     })
